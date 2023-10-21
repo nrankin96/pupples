@@ -6,6 +6,10 @@ import { GiHamburgerMenu } from "react-icons/gi";
 import { AiOutlineClose } from "react-icons/ai";
 import Link from "next/link";
 
+// TODO: Fix logo image
+// TODO: A  navbar links
+// TODO: 
+
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
